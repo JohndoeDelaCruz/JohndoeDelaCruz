@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.png" width="1120" alt="Hi, I’m Johndoe. Web developer." />
 </h1>
 
-<p align="center">I build booking and operations software for sports venues and offline quiz tools for classrooms.</p>
+<p align="center">I build web and desktop applications.</p>
 
 <p align="center">
   <a href="mailto:johndoedelacruz29@gmail.com">Email</a>
