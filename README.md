@@ -35,9 +35,9 @@
 
 ## Tech stack
 
-**Web** · `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`  
-**Backend and data** · `Node.js` `PHP` `Laravel` `Supabase` `PostgreSQL` `MariaDB`  
-**Desktop and machine learning** · `Electron` `SQLite` `Python`
+**Web** · ![TypeScript](https://img.shields.io/badge/TypeScript-292E36?style=flat&logo=typescript&logoColor=69A9E4) ![JavaScript](https://img.shields.io/badge/JavaScript-292E36?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-292E36?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-292E36?style=flat&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-292E36?style=flat&logo=tailwindcss&logoColor=38C4D9)  
+**Backend and data** · ![Node.js](https://img.shields.io/badge/Node.js-292E36?style=flat&logo=nodedotjs&logoColor=80CC55) ![PHP](https://img.shields.io/badge/PHP-292E36?style=flat&logo=php&logoColor=A1A9DF) ![Laravel](https://img.shields.io/badge/Laravel-292E36?style=flat&logo=laravel&logoColor=FF6A60) ![Supabase](https://img.shields.io/badge/Supabase-292E36?style=flat&logo=supabase&logoColor=3FCF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292E36?style=flat&logo=postgresql&logoColor=83B5DE) ![MariaDB](https://img.shields.io/badge/MariaDB-292E36?style=flat&logo=mariadb&logoColor=D7B094)  
+**Desktop and machine learning** · ![Electron](https://img.shields.io/badge/Electron-292E36?style=flat&logo=electron&logoColor=9FEAF9) ![SQLite](https://img.shields.io/badge/SQLite-292E36?style=flat&logo=sqlite&logoColor=6CBEEE) ![Python](https://img.shields.io/badge/Python-292E36?style=flat&logo=python&logoColor=FFD343)
 
 ## GitHub trophies
 
